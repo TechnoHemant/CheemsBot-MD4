@@ -64,13 +64,13 @@ global.location = "India, Mumbai" //ur location
 global.owner = ['13658003221']
 global.ownertag = '13658003221' //ur tag number
 global.botname = 'Techno Hemant' //ur bot name
-global.linkz = "#" //your theme url which will be displayed on whatsapp
-global.websitex = "#" //ur website to be displayed
-global.botscript = 'https://github.com/TechnoHemant/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
+global.linkz = "https://youtube.com/c/TechnoSMART_7" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/c/TechnoSMART_7" //ur website to be displayed
+global.botscript = '#' //script link
+global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.author = "Techno Hemant" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
